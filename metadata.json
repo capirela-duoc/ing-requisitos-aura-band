@@ -1,0 +1,6 @@
+{
+  "name": "Aura Band - 4ocean Guardian",
+  "description": "Infografía explicativa interactiva, referencias visuales del brazalete y simulador de la aplicación móvil con IA biométrica de alerta SOS.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
